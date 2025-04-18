@@ -18,6 +18,8 @@
     <div class="popup-test">
         <button id="popupButton">弹窗测试</button>
     </div>
+    <!-- 引入外部 JavaScript 文件 -->
+    <script src="js/main.js"></script>
     
     <div class="back">
         <h5>---------------------------</h5>
@@ -26,8 +28,5 @@
         <h5>QQ：3027992723</h5>
         <h5 onclick="window.location.href='mailto:abcd58758@163.com?subject=反馈&body=您的问题：%0D%0A在何处遇到：%0D%0A我们该如何联系您：%0D%0A'">点我反馈</h5>
     </div>
-    
-    <!-- 引入外部 JavaScript 文件 -->
-    <script src="js/main.js"></script>
 </body>
 </html>
